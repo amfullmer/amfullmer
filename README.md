@@ -1,8 +1,8 @@
-### Hi there 👋
-I'm Andie!
+### Hiya 👋
+I'm Andie (she/her)! <br>
 I like dogs, chocolate, and learning new things. 
-I'm currently in a 14 wk full-stack coding bootcamp.
-I'd love to connect and collaborate with other as I master the basics and embark on new projects.
+I'm currently enrolled in a 14 week full-stack coding bootcamp.
+I'd love to connect and collaborate with others as I master the basics and embark on new projects.
 <!--
 **amfullmer/amfullmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
